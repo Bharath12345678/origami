@@ -1,0 +1,16 @@
+.Heading{
+    background-color: #FFFFFF;
+}
+
+.menu1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.menu2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
